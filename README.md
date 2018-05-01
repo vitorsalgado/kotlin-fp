@@ -1,2 +1,2 @@
-# kotlin-fp
+# Kotlin FP
 Playing with functional on Kotlin 
